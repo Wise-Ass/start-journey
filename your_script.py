@@ -115,7 +115,7 @@ def main():
     window = tk.Tk()
     window.geometry("300x150")
     window.title("Green GUI")
-    window.configure(bg="red")
+    window.configure(bg="blue")
 
     update_application()
 
