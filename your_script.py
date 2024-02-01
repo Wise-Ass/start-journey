@@ -10,7 +10,7 @@ import shutil
 # Replace these variables with your GitHub repository information
 repo_owner = 'Wise-Ass'
 repo_name = 'start-journey'
-current_version = 'v1.0.2'
+current_version = 'v1.0.3'
 
 def update_application():
     global current_version
